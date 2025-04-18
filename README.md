@@ -48,7 +48,7 @@ I've set about the task of typing-in the source codes in its pages. Thus, this r
 
 ### Fat Pixels
 |Scanned Page|Source Code|Running in PC Basic|
-|-----------|----------|
+|-----------|----------|----------|
 |![Scan](/screenshots/fatpixs-src.png)|![Source](/screenshots/fatpixs-pcbasic.png)|![In Action](/screenshots/fatpixs.png)|
 
 ## Acknowlegement

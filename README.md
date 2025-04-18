@@ -44,7 +44,7 @@ Fortunately, old technology is somewhat new again. The codes in the book ran wel
 
 ## This is your home (now)
 
-I've set about the task of typing-in the source codes in its pages. Thus, this repository is born. Some codes needed further adjustments to work with modern emulators. Some needed tweaks to the math due the differing number precisions between the old machine and the new one that's emulating it. The [FATPIXS](https://github.com/daelsepara/in-search-of-graphics/tree/main/src/fat-pixels/FATPIXS.BAS) program needed adjustment in its file handling routines since modern computers don't do floppy drives now. I've tried to be completely faithful, but my overriding goal to be able to run these (accurately) in PCBASIC.
+I've set about the task of typing-in the source codes in its pages. Thus, this repository is born. Some codes needed further adjustments to work with modern emulators. Some needed tweaks to the math due the differing number precisions between the old machine and the new one that's emulating it. The [FATPIXS](https://github.com/daelsepara/in-search-of-graphics/tree/main/src/fat-pixels/FATPIXS.BAS) program needed adjustment in its file handling routines since modern computers don't do floppy drives now. Some needed a judicious addition of "pauses" to "slow down" the emulator. I've tried to be completely faithful, but my overriding goal to be able to run these (accurately) in PCBASIC.
 
 ### Fat Pixels
 |Scanned Page|Source Code|Running in PC Basic|
@@ -53,4 +53,4 @@ I've set about the task of typing-in the source codes in its pages. Thus, this r
 
 ## Acknowlegement
 
-I've like to thank William and Sandra Markle for writing such an enjoyable book. There's a lot of gems in there that (I think) are still applicable today. Sandra Markle is a beloved educator and children's book author, both the past and inner child in me are forever grateful for **In Search of Graphics: Adventures in Computer Art**.
+I've like to thank William and Sandra Markle for writing such an enjoyable book. There's a lot of gems in there that (I think) are still applicable today. Sandra Markle is a beloved educator and children's book author. Both the past and inner child in me are forever grateful for **In Search of Graphics: Adventures in Computer Art**.
